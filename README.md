@@ -14,6 +14,8 @@ The focus of this project is not only control design in simulation, but **debugg
 - Power amplifier with voltage saturation limits
 - Feedback controller implemented in hardware
 
+<img width="868" height="485" alt="blockdiagram" src="https://github.com/user-attachments/assets/6ca8e33c-08b8-4907-8ac0-c11fe0f09737" />
+
 ---
 
 ## Modeling and Simulation

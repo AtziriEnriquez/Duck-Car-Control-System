@@ -31,6 +31,8 @@ The focus of this project is not only control design in simulation, but **debugg
 - Selected performance targets for settling time, overshoot, bandwidth, and robustness
 - Verified predicted performance in MATLAB prior to hardware implementation
 
+<img width="1198" height="942" alt="PDcontroller" src="https://github.com/user-attachments/assets/0fd0ed4f-406d-4843-a0b0-7ce920cad8e1" />
+
 ---
 
 ## Hardware-in-the-Loop Debugging

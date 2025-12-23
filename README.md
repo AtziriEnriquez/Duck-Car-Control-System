@@ -53,11 +53,6 @@ These results demonstrate a deliberate tradeoff between overshoot and real-world
 
 ---
 
-## Lessons Learned
-This project highlighted the limitations of idealized models and the importance of empirical tuning. Real systems often require higher gains and different tradeoffs than simulations predict, and successful control design prioritizes physical behavior over perfect theoretical compliance.
-
----
-
 ## Tools & Technologies
 - MATLAB / Control System Toolbox
 - Oscilloscope-based debugging

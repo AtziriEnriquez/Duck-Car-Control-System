@@ -24,6 +24,8 @@ The focus of this project is not only control design in simulation, but **debugg
 - Combined motor, integrator, and sensor into an open-loop plant
 - Analyzed uncompensated system stability, damping, and margins using MATLAB
 
+<img width="1168" height="946" alt="Simulation" src="https://github.com/user-attachments/assets/1817ac78-2eec-4d28-9d00-e119ecf32994" />
+
 ---
 
 ## Controller Design

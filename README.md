@@ -1,6 +1,7 @@
 # Closed-Loop Motor Control System (Duck Car)
-**Portfolio write-up in progress  
-This project is complete; documentation and portfolio materials are currently being updated**.
+
+## Video Demo:
+https://drive.google.com/file/d/1ZpYXO9wW2vxQXHfBDb2ANLoKGMyidYMl/view?usp=sharing
 
 ## Overview
 This project implements a closed-loop feedback controller to regulate the position of a DC-motor-driven cart. The system was designed, simulated, built, and experimentally tuned to meet real-world constraints on settling time, overshoot, robustness, and actuator limits.
